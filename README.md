@@ -7,4 +7,5 @@ Progamas que utilizo nos meus estudos
 ```
 VS Code
 Google Chrome
+Git
 ```
