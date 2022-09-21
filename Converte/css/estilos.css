@@ -63,6 +63,11 @@ form {
   align-self: flex-end;
 }
 
+.enviar:hover {
+	background: darkorange;
+	transform: scale(1.1);
+}
+
 label{
   margin: 10px;
 }
